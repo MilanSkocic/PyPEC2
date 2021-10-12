@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\Users\Milan Skocic\Documents\Areva_thesis\6-Programming\Python\PEC\PyPEC\master\icon.png"
+   inkscape:export-xdpi="300.00229"
+   inkscape:export-ydpi="300.00229">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5553">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop5555" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5557" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4884"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path4881"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5553"
+       id="radialGradient5561"
+       cx="24.715954"
+       cy="9.2140074"
+       fx="24.715954"
+       fy="9.2140074"
+       r="17.43215"
+       gradientTransform="matrix(1,0,0,0.32143803,0,6.2522752)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter5577">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25819228"
+         id="feGaussianBlur5579" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.03125"
+     inkscape:cx="5.9464956"
+     inkscape:cy="2.9136674"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4099"
+       units="mm"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 4.1976199,1008.8745 0,38.9764 38.9763931,0"
+       id="path4101"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+       x="21.914127"
+       y="1050.1956"
+       id="text5501"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5505"
+         x="21.914127"
+         y="1050.1956"
+         style="font-size:2px">hυ</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70866144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 5.0122895,1047.0362 c 1.6576943,-0.4765 4.9751831,0.7918 5.3365315,-0.6126 1.958308,-7.6114 3.323792,-8.5294 4.427189,-8.9453 3.145738,-1.186 3.167114,6.2886 4.928902,6.7564 3.714564,0.092 4.241598,-9.9534 7.774726,-9.7969 3.127796,0.1386 4.10484,7.7911 6.918056,8.1149 4.466054,-0.5699 8.563295,-20.1785 11.079821,-29.2686"
+       id="path5521"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscscc" />
+    <path
+       sodipodi:nodetypes="csscscc"
+       inkscape:connector-curvature="0"
+       id="path5523"
+       d="m 5.0122895,1047.0362 c 1.6576943,-0.4765 4.9751831,0.7918 5.3365315,-0.6126 1.958308,-7.6114 3.323792,-8.5294 4.427189,-8.9453 3.145738,-1.186 3.167114,6.2886 4.928902,6.7564 3.714564,0.092 4.241598,-9.9534 7.774726,-9.7969 3.127796,0.1386 4.10484,7.7911 6.918056,8.1149 4.466054,-0.5699 8.563295,-20.1785 11.079821,-29.2686"
+       style="fill:none;stroke:#ff0000;stroke-width:0.08858268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       sodipodi:linespacing="100%"
+       id="text5525"
+       y="17.288942"
+       x="-1029.8137"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+       xml:space="preserve"
+       transform="matrix(0.01433427,-0.99989726,0.99989726,0.01433427,0,0)"><tspan
+         style="font-size:2px"
+         y="17.288942"
+         x="-1029.8137"
+         id="tspan5527"
+         sodipodi:role="line">Iph</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+       x="24.404669"
+       y="1022.3544"
+       id="text5547"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5549"
+         x="24.404669"
+         y="1022.3544"
+         style="font-size:9px">PyPEC</tspan></text>
+  </g>
+</svg>
